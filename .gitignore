@@ -1,0 +1,4 @@
+.vagrant
+corenlp/*
+languages/*
+.DS_Store
